@@ -1,7 +1,7 @@
 {
   "metadata": {
     "home": {
-      "title": "민감한 문서를 위한 온라인 PDF 도구, 가입 불필요 | PDFkoi",
+      "title": "민감한 문서를 위한 온라인 PDF 도구, 가입 불필요 | docbulk",
       "description": "병합, 분할, 압축, 이미지 PDF 변환, PDF Word 변환 같은 자주 쓰는 작업에 맞는 무료 온라인 PDF 도구입니다. 계약서, 신분증, 이력서 같은 중요한 문서를 공유 전에 정리할 때 유용합니다.",
       "keywords": {
         "k1": "민감한 문서 pdf 도구",
@@ -13,24 +13,24 @@
       }
     },
     "tools": {
-      "title": "무료, 개인 정보 보호, 브라우저 기반 PDF 도구 | PDFkoi",
+      "title": "무료, 개인 정보 보호, 브라우저 기반 PDF 도구 | docbulk",
       "description": "무료, 개인 정보 보호, 브라우저 기반 PDF 도구로 PDF 변환, 병합, 분할, 압축을 온라인에서 처리할 수 있으며 회원가입이 필요 없습니다."
     },
     "about": {
       "title": "회사 소개",
-      "description": "PDFkoi와 무료, 개인 정보 보호, 브라우저 기반 PDF 도구를 소개합니다. 모든 처리는 브라우저 안에서 이루어집니다."
+      "description": "docbulk와 무료, 개인 정보 보호, 브라우저 기반 PDF 도구를 소개합니다. 모든 처리는 브라우저 안에서 이루어집니다."
     },
     "faq": {
       "title": "자주 묻는 질문",
-      "description": "PDFkoi에 대한 일반적인 질문에 대한 답변을 찾으세요. PDF 도구를 효과적으로 사용하는 방법을 알아보세요."
+      "description": "docbulk에 대한 일반적인 질문에 대한 답변을 찾으세요. PDF 도구를 효과적으로 사용하는 방법을 알아보세요."
     },
     "privacy": {
       "title": "개인정보 보호정책",
-      "description": "PDFkoi 개인정보 보호정책. 파일은 장치를 떠나지 않습니다 - 모든 처리는 로컬 브라우저에서 이루어집니다."
+      "description": "docbulk 개인정보 보호정책. 파일은 장치를 떠나지 않습니다 - 모든 처리는 로컬 브라우저에서 이루어집니다."
     },
     "contact": {
       "title": "문의하기",
-      "description": "PDFkoi 팀에 연락하세요. 여러분의 의견을 듣고 싶습니다."
+      "description": "docbulk 팀에 연락하세요. 여러분의 의견을 듣고 싶습니다."
     },
     "keywords": {
       "pdfTools": "PDF 도구",
@@ -43,11 +43,11 @@
     },
     "terms": {
       "title": "서비스 이용약관",
-      "description": "PDFkoi 서비스 이용약관. 무료 PDF 도구 사용 약관을 읽어보세요."
+      "description": "docbulk 서비스 이용약관. 무료 PDF 도구 사용 약관을 읽어보세요."
     }
   },
   "common": {
-    "brand": "PDFkoi",
+    "brand": "docbulk",
     "tagline": "무료, 개인 정보 보호, 브라우저 기반 PDF 도구",
     "navigation": {
       "home": "홈",
@@ -108,9 +108,9 @@
       "loading": "로딩 중..."
     },
     "footer": {
-      "copyright": "© {year} PDFkoi. All rights reserved.",
+      "copyright": "© {year} docbulk. All rights reserved.",
       "privacyBadge": "100% 프라이빗 - 파일이 기기를 떠나지 않습니다",
-      "footer": "© 2025 PDFkoi. All rights reserved.",
+      "footer": "© 2025 docbulk. All rights reserved.",
       "madeWith": "Made with <Heart /> and <Nextjs />"
     },
     "recentFiles": {
@@ -154,7 +154,7 @@
       "finish": "완료",
       "skip": "건너뛰기",
       "stepOf": "/",
-      "welcomeTitle": "PDFkoi에 오신 것을 환영합니다!",
+      "welcomeTitle": "docbulk에 오신 것을 환영합니다!",
       "welcomeMessage": "PDF 도구 사용법을 배우는 빠른 투어를 원하시나요? 1분 정도 소요됩니다.",
       "helpButton": "도움말 투어"
     },
@@ -181,16 +181,16 @@
       "sections": {
         "general": {
           "whatIs": {
-            "question": "PDFkoi? ??????",
-            "answer": "PDFkoi는 브라우저에서 완전히 실행되는 무료, 개인 정보 보호, 브라우저 기반 PDF 도구 모음입니다. 95개 이상의 PDF 도구를 제공하며, 파일을 서버에 업로드하지 않고도 편집, 변환, 병합, 분할, 보호 작업을 할 수 있습니다."
+            "question": "docbulk? ??????",
+            "answer": "docbulk는 브라우저에서 완전히 실행되는 무료, 개인 정보 보호, 브라우저 기반 PDF 도구 모음입니다. 95개 이상의 PDF 도구를 제공하며, 파일을 서버에 업로드하지 않고도 편집, 변환, 병합, 분할, 보호 작업을 할 수 있습니다."
           },
           "isFree": {
-            "question": "PDFkoi? ?? ??????",
-            "answer": "?, PDFkoi? ??? ?????. ??? ???? ?? ??? ?? ????? ???? ????. ?? ??? ??? ??? ? ????."
+            "question": "docbulk? ?? ??????",
+            "answer": "?, docbulk? ??? ?????. ??? ???? ?? ??? ?? ????? ???? ????. ?? ??? ??? ??? ? ????."
           },
           "account": {
             "question": "??? ???? ????",
-            "answer": "???. PDFkoi? ???? ?? ??? ???? ??? ??? ????. ???? ??? ?? ??? ??? ??? ? ????."
+            "answer": "???. docbulk? ???? ?? ??? ???? ??? ??? ????. ???? ??? ?? ??? ??? ??? ? ????."
           }
         },
         "privacy": {
@@ -200,7 +200,7 @@
           },
           "safe": {
             "question": "??? ???? ??????",
-            "answer": "?. PDFkoi? ???? ??? ??? ???????. ?? ??? ???? ??? ?????? ??? ??? ??? ???? ?? ????? ???? ????."
+            "answer": "?. docbulk? ???? ??? ??? ???????. ?? ??? ???? ??? ?????? ??? ??? ??? ???? ?? ????? ???? ????."
           },
           "storage": {
             "question": "?? ? ??? ??? ????",
@@ -210,7 +210,7 @@
         "features": {
           "operations": {
             "question": "?? PDF ??? ? ? ????",
-            "answer": "PDFkoi는 병합, 분할, 압축, 변환(이미지·텍스트·JSON 상호 변환), 편집, 주석, 서명, 워터마크 추가, 암호화/복호화, OCR 등 95개 이상의 도구를 제공합니다."
+            "answer": "docbulk는 병합, 분할, 압축, 변환(이미지·텍스트·JSON 상호 변환), 편집, 주석, 서명, 워터마크 추가, 암호화/복호화, OCR 등 95개 이상의 도구를 제공합니다."
           },
           "merge": {
             "question": "?? PDF ??? ??? ?? ? ????",
@@ -218,17 +218,17 @@
           },
           "images": {
             "question": "???? PDF? ??? ? ????",
-            "answer": "?. PDFkoi? JPG, PNG, WebP, BMP, TIFF, SVG, HEIC ? ??? ??? ??? PDF? ??? ? ??? ? ? ?? ?? ?? ? ?? ??? ? ????."
+            "answer": "?. docbulk? JPG, PNG, WebP, BMP, TIFF, SVG, HEIC ? ??? ??? ??? PDF? ??? ? ??? ? ? ?? ?? ?? ? ?? ??? ? ????."
           },
           "edit": {
             "question": "PDF ?? ???? ??? ? ????",
-            "answer": "PDFkoi? ?????, ??? ??, ??, ???, ?? ? ??? ?? ??? ?????. ?? ??? ??? ???? PDF ?? ??? ??? ? ????."
+            "answer": "docbulk? ?????, ??? ??, ??, ???, ?? ? ??? ?? ??? ?????. ?? ??? ??? ???? PDF ?? ??? ??? ? ????."
           }
         },
         "technical": {
           "browsers": {
             "question": "?? ????? ??????",
-            "answer": "PDFkoi? Chrome, Firefox, Safari, Edge ?? ?? ?????? ?????. ?? ???? ??? ?? ?? ??? ?????."
+            "answer": "docbulk? Chrome, Firefox, Safari, Edge ?? ?? ?????? ?????. ?? ???? ??? ?? ?? ??? ?????."
           },
           "sizeLimit": {
             "question": "?? ?? ??? ????",
@@ -246,7 +246,7 @@
         "languages": {
           "supported": {
             "question": "?? ??? ??????",
-            "answer": "PDFkoi? ??, ???, ???, ????, ????, ???, ???, ?????, ???(RTL ??)?? ? 9? ??? ?????."
+            "answer": "docbulk? ??, ???, ???, ????, ????, ???, ???, ?????, ???(RTL ??)?? ? 9? ??? ?????."
           },
           "change": {
             "question": "??? ??? ?????",
@@ -277,7 +277,7 @@
         },
         "fast": {
           "title": "Fast & Efficient",
-          "description": "Powered by modern web technologies, PDFkoi delivers lightning-fast PDF processing without the need for uploads or downloads."
+          "description": "Powered by modern web technologies, docbulk delivers lightning-fast PDF processing without the need for uploads or downloads."
         },
         "accessible": {
           "title": "Accessible Everywhere",
@@ -285,7 +285,7 @@
         },
         "free": {
           "title": "Free Forever",
-          "description": "PDFkoi is completely free to use with no hidden costs, no registration required, and no limits on usage."
+          "description": "docbulk is completely free to use with no hidden costs, no registration required, and no limits on usage."
         },
         "openSource": {
           "title": "Open Source",
@@ -323,7 +323,7 @@
         "email": {
           "title": "이메일",
           "description": "이메일을 보내주시면 24-48시간 이내에 답변해 드립니다.",
-          "action": "support@pdfkoi.com"
+          "action": "support@docbulk.com"
         },
         "github": {
           "title": "GitHub",
@@ -333,7 +333,7 @@
         "twitter": {
           "title": "Twitter",
           "description": "업데이트 및 공지 사항 팔로우.",
-          "action": "@PDFkoi"
+          "action": "@docbulk"
         }
       },
       "form": {
@@ -487,12 +487,12 @@
       "browserSafety": {
         "eyebrow": "개인정보 중심 워크플로",
         "heading": "브라우저 기반 PDF 도구가 더 안전한 이유",
-        "body": "많은 온라인 PDF 도구는 병합, 분할, 압축, 변환을 하기 전에 파일을 원격 서버에 업로드하라고 요구합니다。 PDFkoi는 다르게 작동합니다。 파일이 브라우저 안에서 처리되므로 계약서, 이력서, 양식, 신분증, 스캔본처럼 외부로 보내고 싶지 않은 문서에 더 잘 맞습니다。 가입 없이 더 빠르게 작업하고 파일 처리 방식을 더 직접적으로 통제하고 싶다면, 브라우저 기반 PDF 처리가 더 간단한 선택이 되는 경우가 많습니다。"
+        "body": "많은 온라인 PDF 도구는 병합, 분할, 압축, 변환을 하기 전에 파일을 원격 서버에 업로드하라고 요구합니다。 docbulk는 다르게 작동합니다。 파일이 브라우저 안에서 처리되므로 계약서, 이력서, 양식, 신분증, 스캔본처럼 외부로 보내고 싶지 않은 문서에 더 잘 맞습니다。 가입 없이 더 빠르게 작업하고 파일 처리 방식을 더 직접적으로 통제하고 싶다면, 브라우저 기반 PDF 처리가 더 간단한 선택이 되는 경우가 많습니다。"
       },
       "everydayTasks": {
         "eyebrow": "검색 친화적 커버리지",
         "heading": "일상 작업에 많이 쓰이는 PDF 도구",
-        "body": "대부분의 사람들은 분명한 목적을 가지고 PDF 도구를 찾습니다。 PDF 파일 병합, 페이지 분할, 큰 문서 압축, PDF를 Word로 변환, 이미지를 PDF로 만들기 같은 작업입니다。 PDFkoi는 이런 자주 쓰는 작업을 한곳에 모아 둡니다。 계정을 만들거나 전통적인 업로드 절차를 거치지 않고도 일상적인 문서 작업을 빠르게 처리할 수 있습니다。",
+        "body": "대부분의 사람들은 분명한 목적을 가지고 PDF 도구를 찾습니다。 PDF 파일 병합, 페이지 분할, 큰 문서 압축, PDF를 Word로 변환, 이미지를 PDF로 만들기 같은 작업입니다。 docbulk는 이런 자주 쓰는 작업을 한곳에 모아 둡니다。 계정을 만들거나 전통적인 업로드 절차를 거치지 않고도 일상적인 문서 작업을 빠르게 처리할 수 있습니다。",
         "cardTitle": "사람들이 자주 찾는 작업",
         "items": {
           "merge": "온라인으로 PDF 병합",
@@ -521,7 +521,7 @@
   "workflow": {
     "title": "PDF 워크플로우 편집기",
     "subtitle": "도구를 연결하여 맞춤형 PDF 처리 파이프라인 생성",
-    "metaTitle": "PDF 워크플로우 편집기 - PDFkoi",
+    "metaTitle": "PDF 워크플로우 편집기 - docbulk",
     "metaDescription": "도구를 시각적으로 연결하여 맞춤형 PDF 처리 파이프라인을 생성하세요. 워크플로우를 구축, 저장 및 재사용하세요.",
     "toolbox": "도구 상자",
     "dragToAdd": "워크플로우에 도구를 드래그하여 추가",
