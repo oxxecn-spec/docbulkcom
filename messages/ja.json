@@ -1,7 +1,7 @@
 {
   "metadata": {
     "home": {
-      "title": "機密文書向けのオンラインPDFツール、登録不要 | PDFkoi",
+      "title": "機密文書向けのオンラインPDFツール、登録不要 | docbulk",
       "description": "結合、分割、圧縮、画像からPDF、PDFからWordなどの定番作業に使える無料オンラインPDFツール。契約書、身分証、履歴書などの大事な文書を共有前に整える用途に向いています。",
       "keywords": {
         "k1": "機密文書 pdf ツール",
@@ -13,24 +13,24 @@
       }
     },
     "tools": {
-      "title": "無料・プライベート・ブラウザ完結のPDFツール | PDFkoi",
+      "title": "無料・プライベート・ブラウザ完結のPDFツール | docbulk",
       "description": "無料・プライベート・ブラウザ完結のPDFツール。PDFの変換、結合、分割、圧縮をオンラインで実行でき、登録は不要です。"
     },
     "about": {
       "title": "私たちについて",
-      "description": "PDFkoi と、無料・プライベート・ブラウザ完結のPDFツールについてご紹介します。すべての処理はブラウザ内で完結します。"
+      "description": "docbulk と、無料・プライベート・ブラウザ完結のPDFツールについてご紹介します。すべての処理はブラウザ内で完結します。"
     },
     "faq": {
       "title": "よくある質問",
-      "description": "PDFkoiに関するよくある質問の回答。PDFツールを効果的に使用する方法をご覧ください。"
+      "description": "docbulkに関するよくある質問の回答。PDFツールを効果的に使用する方法をご覧ください。"
     },
     "privacy": {
       "title": "プライバシーポリシー",
-      "description": "PDFkoiプライバシーポリシー。ファイルはデバイスから離れることはありません - すべての処理はローカルブラウザで行われます。"
+      "description": "docbulkプライバシーポリシー。ファイルはデバイスから離れることはありません - すべての処理はローカルブラウザで行われます。"
     },
     "contact": {
       "title": "お問い合わせ",
-      "description": "PDFkoiチームにお問い合わせください。ご意見をお待ちしております。"
+      "description": "docbulkチームにお問い合わせください。ご意見をお待ちしております。"
     },
     "keywords": {
       "pdfTools": "PDFツール",
@@ -43,11 +43,11 @@
     },
     "terms": {
       "title": "利用規約",
-      "description": "PDFkoi利用規約。無料PDFツールの使用に関する利用規約をお読みください。"
+      "description": "docbulk利用規約。無料PDFツールの使用に関する利用規約をお読みください。"
     }
   },
   "common": {
-    "brand": "PDFkoi",
+    "brand": "docbulk",
     "tagline": "無料・プライベート・ブラウザ完結のPDFツール",
     "navigation": {
       "home": "ホーム",
@@ -108,9 +108,9 @@
       "loading": "読み込み中..."
     },
     "footer": {
-      "copyright": "© {year} PDFkoi. All rights reserved.",
+      "copyright": "© {year} docbulk. All rights reserved.",
       "privacyBadge": "100%プライベート - ファイルはデバイスから離れません",
-      "footer": "© 2025 PDFkoi. All rights reserved.",
+      "footer": "© 2025 docbulk. All rights reserved.",
       "madeWith": "Made with <Heart /> and <Nextjs />"
     },
     "recentFiles": {
@@ -154,7 +154,7 @@
       "finish": "完了",
       "skip": "スキップ",
       "stepOf": "/",
-      "welcomeTitle": "PDFkoiへようこそ！",
+      "welcomeTitle": "docbulkへようこそ！",
       "welcomeMessage": "PDFツールの使い方を学ぶクイックツアーはいかがですか？1分程度で完了します。",
       "helpButton": "ヘルプツアー"
     },
@@ -181,16 +181,16 @@
       "sections": {
         "general": {
           "whatIs": {
-            "question": "What is PDFkoi?",
-            "answer": "PDFkoi は、ブラウザ内で完結する無料・プライベートなPDFツールキットです。95+ のPDFツールを備え、ファイルをサーバーへアップロードせずに、編集、変換、結合、分割、保護を行えます。"
+            "question": "What is docbulk?",
+            "answer": "docbulk は、ブラウザ内で完結する無料・プライベートなPDFツールキットです。95+ のPDFツールを備え、ファイルをサーバーへアップロードせずに、編集、変換、結合、分割、保護を行えます。"
           },
           "isFree": {
-            "question": "Is PDFkoi really free?",
-            "answer": "Yes, PDFkoi is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
+            "question": "Is docbulk really free?",
+            "answer": "Yes, docbulk is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
           },
           "account": {
             "question": "Do I need to create an account?",
-            "answer": "No, you don't need to create an account or register to use PDFkoi. Simply visit the website and start using any tool immediately."
+            "answer": "No, you don't need to create an account or register to use docbulk. Simply visit the website and start using any tool immediately."
           }
         },
         "privacy": {
@@ -199,8 +199,8 @@
             "answer": "No, your files are never uploaded to any server. All PDF processing happens locally in your browser using JavaScript and WebAssembly. Your files never leave your device."
           },
           "safe": {
-            "question": "Is it safe to use PDFkoi with sensitive documents?",
-            "answer": "Yes, PDFkoi is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
+            "question": "Is it safe to use docbulk with sensitive documents?",
+            "answer": "Yes, docbulk is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
           },
           "storage": {
             "question": "What happens to my files after processing?",
@@ -210,7 +210,7 @@
         "features": {
           "operations": {
             "question": "What PDF operations can I perform?",
-            "answer": "PDFkoi では、結合、分割、圧縮、変換（画像・テキスト・JSONとの相互変換）、編集、注釈、署名、透かし追加、暗号化/復号化、OCR など 95+ のツールを利用できます。"
+            "answer": "docbulk では、結合、分割、圧縮、変換（画像・テキスト・JSONとの相互変換）、編集、注釈、署名、透かし追加、暗号化/復号化、OCR など 95+ のツールを利用できます。"
           },
           "merge": {
             "question": "Can I merge multiple PDF files?",
@@ -218,17 +218,17 @@
           },
           "images": {
             "question": "Can I convert images to PDF?",
-            "answer": "Yes, PDFkoi supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
+            "answer": "Yes, docbulk supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
           },
           "edit": {
             "question": "Can I edit text in a PDF?",
-            "answer": "PDFkoi provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
+            "answer": "docbulk provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
           }
         },
         "technical": {
           "browsers": {
             "question": "What browsers are supported?",
-            "answer": "PDFkoi works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
+            "answer": "docbulk works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
           },
           "sizeLimit": {
             "question": "Is there a file size limit?",
@@ -239,14 +239,14 @@
             "answer": "Since all processing happens in your browser, performance depends on your device's capabilities. Large files require more memory and processing power. For best results, close other browser tabs and applications."
           },
           "offline": {
-            "question": "Does PDFkoi work offline?",
-            "answer": "Currently, PDFkoi requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
+            "question": "Does docbulk work offline?",
+            "answer": "Currently, docbulk requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
           }
         },
         "languages": {
           "supported": {
             "question": "What languages are supported?",
-            "answer": "PDFkoi is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
+            "answer": "docbulk is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
           },
           "change": {
             "question": "How do I change the language?",
@@ -277,7 +277,7 @@
         },
         "fast": {
           "title": "Fast & Efficient",
-          "description": "Powered by modern web technologies, PDFkoi delivers lightning-fast PDF processing without the need for uploads or downloads."
+          "description": "Powered by modern web technologies, docbulk delivers lightning-fast PDF processing without the need for uploads or downloads."
         },
         "accessible": {
           "title": "Accessible Everywhere",
@@ -285,7 +285,7 @@
         },
         "free": {
           "title": "Free Forever",
-          "description": "PDFkoi is completely free to use with no hidden costs, no registration required, and no limits on usage."
+          "description": "docbulk is completely free to use with no hidden costs, no registration required, and no limits on usage."
         },
         "openSource": {
           "title": "Open Source",
@@ -323,7 +323,7 @@
         "email": {
           "title": "メール",
           "description": "メールをお送りください。24〜48時間以内に返信いたします。",
-          "action": "support@pdfkoi.com"
+          "action": "support@docbulk.com"
         },
         "github": {
           "title": "GitHub",
@@ -333,7 +333,7 @@
         "twitter": {
           "title": "Twitter",
           "description": "最新情報やお知らせはこちらでフォロー。",
-          "action": "@PDFkoi"
+          "action": "@docbulk"
         }
       },
       "form": {
@@ -487,12 +487,12 @@
       "browserSafety": {
         "eyebrow": "プライバシー重視のワークフロー",
         "heading": "ブラウザベースのPDFツールがより安全な理由",
-        "body": "多くのオンラインPDFツールでは、結合、分割、圧縮、変換を行う前にファイルを外部サーバーへアップロードする必要があります。PDFkoiは異なります。ファイルはブラウザ内で処理されるため、契約書、履歴書、フォーム、身分証、スキャン文書など、外部に送りたくない書類に向いています。登録なしでより速く、ファイルの扱いを自分でコントロールしたい場合、ブラウザ内でのPDF処理はよりシンプルな選択肢になりやすいです。"
+        "body": "多くのオンラインPDFツールでは、結合、分割、圧縮、変換を行う前にファイルを外部サーバーへアップロードする必要があります。docbulkは異なります。ファイルはブラウザ内で処理されるため、契約書、履歴書、フォーム、身分証、スキャン文書など、外部に送りたくない書類に向いています。登録なしでより速く、ファイルの扱いを自分でコントロールしたい場合、ブラウザ内でのPDF処理はよりシンプルな選択肢になりやすいです。"
       },
       "everydayTasks": {
         "eyebrow": "検索を意識したカバー範囲",
         "heading": "日常業務でよく使う人気のPDFツール",
-        "body": "多くの人がPDFツールを使う目的は明確です。PDFの結合、ページ分割、大きな文書の圧縮、PDFからWordへの変換、画像のPDF化などです。PDFkoiはこうしたよくある作業をひとつの場所にまとめています。アカウント作成や従来のアップロード手順なしで、日常的な文書作業をすばやく進められます。",
+        "body": "多くの人がPDFツールを使う目的は明確です。PDFの結合、ページ分割、大きな文書の圧縮、PDFからWordへの変換、画像のPDF化などです。docbulkはこうしたよくある作業をひとつの場所にまとめています。アカウント作成や従来のアップロード手順なしで、日常的な文書作業をすばやく進められます。",
         "cardTitle": "よく探される作業",
         "items": {
           "merge": "PDFをオンラインで結合",
@@ -521,7 +521,7 @@
   "workflow": {
     "title": "PDFワークフローエディター",
     "subtitle": "ツールを接続してカスタムPDF処理パイプラインを作成",
-    "metaTitle": "PDFワークフローエディター - PDFkoi",
+    "metaTitle": "PDFワークフローエディター - docbulk",
     "metaDescription": "ツールを視覚的に接続してカスタムPDF処理パイプラインを作成。ワークフローを構築、保存、再利用。",
     "toolbox": "ツールボックス",
     "dragToAdd": "ワークフローにツールをドラッグして追加",
