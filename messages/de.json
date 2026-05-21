@@ -13,28 +13,28 @@
       }
     },
     "tools": {
-      "title": "Kostenlose, private, browserbasierte PDF-Tools | PDFkoi",
-      "description": "Kostenlose, private, browserbasierte PDF-Tools zum Online-Konvertieren, Zusammenf?hren, Teilen und Komprimieren von PDFs. Keine Registrierung erforderlich."
+      "title": "Kostenlose, private, browserbasierte PDF-Tools | docbulk",
+      "description": "Kostenlose, private, browserbasierte PDF-Tools zum Online-Konvertieren, Zusammenführen, Teilen und Komprimieren von PDFs. Keine Registrierung erforderlich."
     },
     "about": {
       "title": "Über uns",
-      "description": "Erfahren Sie mehr ?ber PDFkoi und unsere kostenlosen, privaten, browserbasierten PDF-Tools. Die gesamte Verarbeitung findet in Ihrem Browser statt."
+      "description": "Erfahren Sie mehr über docbulk und unsere kostenlosen, privaten, browserbasierten PDF-Tools. Die gesamte Verarbeitung findet in Ihrem Browser statt."
     },
     "faq": {
       "title": "Häufig gestellte Fragen",
-      "description": "Finden Sie Antworten auf häufige Fragen zu PDFkoi. Erfahren Sie, wie Sie unsere PDF-Werkzeuge effektiv nutzen können."
+      "description": "Finden Sie Antworten auf häufige Fragen zu docbulk. Erfahren Sie, wie Sie unsere PDF-Werkzeuge effektiv nutzen können."
     },
     "privacy": {
       "title": "Datenschutzrichtlinie",
-      "description": "PDFkoi Datenschutzrichtlinie. Ihre Dateien verlassen Ihr Gerät nie - alle Verarbeitung erfolgt lokal in Ihrem Browser."
+      "description": "docbulk Datenschutzrichtlinie. Ihre Dateien verlassen Ihr Gerät nie - alle Verarbeitung erfolgt lokal in Ihrem Browser."
     },
     "contact": {
       "title": "Kontakt",
-      "description": "Kontaktieren Sie das PDFkoi-Team. Wir freuen uns auf Ihre Nachricht."
+      "description": "Kontaktieren Sie das docbulk-Team. Wir freuen uns auf Ihre Nachricht."
     },
     "terms": {
       "title": "Nutzungsbedingungen",
-      "description": "PDFkoi Nutzungsbedingungen. Lesen Sie unsere Bedingungen für die Nutzung unserer kostenlosen PDF-Werkzeuge."
+      "description": "docbulk Nutzungsbedingungen. Lesen Sie unsere Bedingungen für die Nutzung unserer kostenlosen PDF-Werkzeuge."
     },
     "keywords": {
       "pdfTools": "PDF-Werkzeuge",
@@ -47,7 +47,7 @@
     }
   },
   "common": {
-    "brand": "PDFkoi",
+    "brand": "docbulk",
     "tagline": "Kostenlose, private, browserbasierte PDF-Tools",
     "navigation": {
       "home": "Startseite",
@@ -108,9 +108,9 @@
       "loading": "Laden..."
     },
     "footer": {
-      "copyright": "© {year} PDFkoi. Alle Rechte vorbehalten.",
+      "copyright": "© {year} docbulk. Alle Rechte vorbehalten.",
       "privacyBadge": "100% Privat - Dateien verlassen nie Ihr Gerät",
-      "footer": "© 2025 PDFkoi. All rights reserved.",
+      "footer": "© 2025 docbulk. All rights reserved.",
       "madeWith": "Made with <Heart /> and <Nextjs />"
     },
     "recentFiles": {
@@ -154,7 +154,7 @@
       "finish": "Fertig",
       "skip": "Überspringen",
       "stepOf": "von",
-      "welcomeTitle": "Willkommen bei PDFkoi!",
+      "welcomeTitle": "Willkommen bei docbulk!",
       "welcomeMessage": "Möchten Sie eine kurze Tour, um zu lernen, wie Sie unsere PDF-Tools verwenden? Es dauert nur eine Minute.",
       "helpButton": "Hilfe-Tour"
     },
@@ -206,16 +206,16 @@
     "sections": {
       "general": {
         "whatIs": {
-          "question": "What is PDFkoi?",
-          "answer": "PDFkoi ist ein kostenloses, privates, browserbasiertes PDF-Toolkit, das vollst?ndig in Ihrem Browser l?uft. Es bietet 95+ PDF-Tools zum Bearbeiten, Konvertieren, Zusammenf?hren, Teilen und Sch?tzen von PDF-Dateien, ohne sie auf einen Server hochzuladen."
+          "question": "What is docbulk?",
+          "answer": "docbulk ist ein kostenloses, privates, browserbasiertes PDF-Toolkit, das vollständig in Ihrem Browser läuft. Es bietet 95+ PDF-Tools zum Bearbeiten, Konvertieren, Zusammenführen, Teilen und Schützen von PDF-Dateien, ohne sie auf einen Server hochzuladen."
         },
         "isFree": {
-          "question": "Is PDFkoi really free?",
-          "answer": "Yes, PDFkoi is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
+          "question": "Is docbulk really free?",
+          "answer": "Yes, docbulk is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
         },
         "account": {
           "question": "Do I need to create an account?",
-          "answer": "No, you don't need to create an account or register to use PDFkoi. Simply visit the website and start using any tool immediately."
+          "answer": "No, you don't need to create an account or register to use docbulk. Simply visit the website and start using any tool immediately."
         }
       },
       "privacy": {
@@ -224,8 +224,8 @@
           "answer": "No, your files are never uploaded to any server. All PDF processing happens locally in your browser using JavaScript and WebAssembly. Your files never leave your device."
         },
         "safe": {
-          "question": "Is it safe to use PDFkoi with sensitive documents?",
-          "answer": "Yes, PDFkoi is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
+          "question": "Is it safe to use docbulk with sensitive documents?",
+          "answer": "Yes, docbulk is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
         },
         "storage": {
           "question": "What happens to my files after processing?",
@@ -235,7 +235,7 @@
       "features": {
         "operations": {
           "question": "What PDF operations can I perform?",
-          "answer": "PDFkoi bietet 95+ Tools, darunter: zusammenf?hren, teilen, komprimieren, konvertieren (in/aus Bildern, Text, JSON), bearbeiten, annotieren, signieren, Wasserzeichen hinzuf?gen, ver- und entschl?sseln, OCR und vieles mehr."
+          "answer": "docbulk bietet 95+ Tools, darunter: zusammenführen, teilen, komprimieren, konvertieren (in/aus Bildern, Text, JSON), bearbeiten, annotieren, signieren, Wasserzeichen hinzufügen, ver- und entschlüsseln, OCR und vieles mehr."
         },
         "merge": {
           "question": "Can I merge multiple PDF files?",
@@ -243,17 +243,17 @@
         },
         "images": {
           "question": "Can I convert images to PDF?",
-          "answer": "Yes, PDFkoi supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
+          "answer": "Yes, docbulk supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
         },
         "edit": {
           "question": "Can I edit text in a PDF?",
-          "answer": "PDFkoi provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
+          "answer": "docbulk provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
         }
       },
       "technical": {
         "browsers": {
           "question": "What browsers are supported?",
-          "answer": "PDFkoi works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
+          "answer": "docbulk works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
         },
         "sizeLimit": {
           "question": "Is there a file size limit?",
@@ -264,14 +264,14 @@
           "answer": "Since all processing happens in your browser, performance depends on your device's capabilities. Large files require more memory and processing power. For best results, close other browser tabs and applications."
         },
         "offline": {
-          "question": "Does PDFkoi work offline?",
-          "answer": "Currently, PDFkoi requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
+          "question": "Does docbulk work offline?",
+          "answer": "Currently, docbulk requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
         }
       },
       "languages": {
         "supported": {
           "question": "What languages are supported?",
-          "answer": "PDFkoi is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
+          "answer": "docbulk is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
         },
         "change": {
           "question": "How do I change the language?",
@@ -287,7 +287,7 @@
   },
   "aboutPage": {
     "title": "About {brand}",
-    "description": "{brand} bietet kostenlose, private, browserbasierte PDF-Tools. Mit {count}+ Tools k?nnen Sie PDF-Dateien bearbeiten, konvertieren, zusammenf?hren, teilen und sch?tzen, ohne sie auf einen Server hochzuladen.",
+    "description": "{brand} bietet kostenlose, private, browserbasierte PDF-Tools. Mit {count}+ Tools können Sie PDF-Dateien bearbeiten, konvertieren, zusammenführen, teilen und schützen, ohne sie auf einen Server hochzuladen.",
     "mission": {
       "title": "Our Mission",
       "p1": "We believe that everyone should have access to powerful PDF tools without compromising their privacy or paying expensive subscription fees. That's why we created {brand} – a comprehensive PDF toolkit that puts your privacy first.",
@@ -302,7 +302,7 @@
       },
       "fast": {
         "title": "Fast & Efficient",
-        "description": "Powered by modern web technologies, PDFkoi delivers lightning-fast PDF processing without the need for uploads or downloads."
+        "description": "Powered by modern web technologies, docbulk delivers lightning-fast PDF processing without the need for uploads or downloads."
       },
       "accessible": {
         "title": "Accessible Everywhere",
@@ -310,7 +310,7 @@
       },
       "free": {
         "title": "Free Forever",
-        "description": "PDFkoi is completely free to use with no hidden costs, no registration required, and no limits on usage."
+        "description": "docbulk is completely free to use with no hidden costs, no registration required, and no limits on usage."
       },
       "openSource": {
         "title": "Open Source",
@@ -348,7 +348,7 @@
       "email": {
         "title": "E-Mail",
         "description": "Senden Sie uns eine E-Mail und wir antworten innerhalb von 24-48 Stunden.",
-        "action": "support@pdfkoi.com"
+        "action": "support@docbulk.com"
       },
       "github": {
         "title": "GitHub",
@@ -358,7 +358,7 @@
       "twitter": {
         "title": "Twitter",
         "description": "Folgen Sie uns für Updates und Ankündigungen.",
-        "action": "@PDFkoi"
+        "action": "@docbulk"
       }
     },
     "form": {
@@ -447,7 +447,7 @@
       },
       "powerful": {
         "title": "Leistungsstarke Werkzeuge",
-        "description": "95+ professionelle PDF-Tools f?r alle Ihre Aufgaben."
+        "description": "95+ professionelle PDF-Tools für alle Ihre Aufgaben."
       }
     },
     "popularTools": {
@@ -487,12 +487,12 @@
       "browserSafety": {
         "eyebrow": "Datenschutzorientierter Workflow",
         "heading": "Warum browserbasierte PDF-Tools sicherer sind",
-        "body": "Viele Online-PDF-Tools verlangen, dass Sie Dateien auf einen entfernten Server hochladen, bevor Sie sie zusammenführen, teilen, komprimieren oder konvertieren können. PDFkoi funktioniert anders. Ihre Dateien werden direkt im Browser verarbeitet. Das ist oft besser geeignet für Verträge, Lebensläufe, Formulare, Ausweise, Scans und andere Dokumente, die Sie nicht an Dritte senden möchten. Wenn Sie einen schnelleren Ablauf ohne Registrierung und mehr Kontrolle über Ihre Dateien möchten, ist die browserbasierte PDF-Verarbeitung oft die einfachere Wahl."
+        "body": "Viele Online-PDF-Tools verlangen, dass Sie Dateien auf einen entfernten Server hochladen, bevor Sie sie zusammenführen, teilen, komprimieren oder konvertieren können. docbulk funktioniert anders. Ihre Dateien werden direkt im Browser verarbeitet. Das ist oft besser geeignet für Verträge, Lebensläufe, Formulare, Ausweise, Scans und andere Dokumente, die Sie nicht an Dritte senden möchten. Wenn Sie einen schnelleren Ablauf ohne Registrierung und mehr Kontrolle über Ihre Dateien möchten, ist die browserbasierte PDF-Verarbeitung oft die einfachere Wahl."
       },
       "everydayTasks": {
         "eyebrow": "Suchfreundliche Abdeckung",
         "heading": "Beliebte PDF-Tools für alltägliche Aufgaben",
-        "body": "Die meisten Menschen nutzen PDF-Tools mit einem klaren Ziel: PDF-Dateien zusammenführen, Seiten teilen, große Dokumente komprimieren, PDF in Word umwandeln oder Bilder in PDF-Dateien konvertieren. PDFkoi bündelt diese häufigen Aufgaben an einem Ort. So erledigen Sie alltägliche Dokumentarbeit schnell, ohne ein Konto anzulegen oder einen klassischen Upload-Ablauf zu durchlaufen.",
+        "body": "Die meisten Menschen nutzen PDF-Tools mit einem klaren Ziel: PDF-Dateien zusammenführen, Seiten teilen, große Dokumente komprimieren, PDF in Word umwandeln oder Bilder in PDF-Dateien konvertieren. docbulk bündelt diese häufigen Aufgaben an einem Ort. So erledigen Sie alltägliche Dokumentarbeit schnell, ohne ein Konto anzulegen oder einen klassischen Upload-Ablauf zu durchlaufen.",
         "cardTitle": "Häufig gesuchte Aufgaben",
         "items": {
           "merge": "PDF-Dateien online zusammenführen",
@@ -521,7 +521,7 @@
   "workflow": {
     "title": "PDF-Workflow-Editor",
     "subtitle": "Erstellen Sie individuelle PDF-Verarbeitungspipelines durch Verbinden von Tools",
-    "metaTitle": "PDF-Workflow-Editor - PDFkoi",
+    "metaTitle": "PDF-Workflow-Editor - docbulk",
     "metaDescription": "Erstellen Sie individuelle PDF-Verarbeitungspipelines durch visuelles Verbinden von Tools. Erstellen, speichern und wiederverwenden Sie Ihre Workflows.",
     "toolbox": "Werkzeugkasten",
     "dragToAdd": "Tools hierher ziehen, um sie zum Workflow hinzuzufügen",
@@ -587,7 +587,7 @@
   },
   "toolsPage": {
     "title": "Kostenlose, private, browserbasierte PDF-Tools",
-    "subtitle": "Entdecken Sie {count}+ PDF-Tools zum Zusammenf?hren, Teilen, Konvertieren und mehr.",
+    "subtitle": "Entdecken Sie {count}+ PDF-Tools zum Zusammenführen, Teilen, Konvertieren und mehr.",
     "filters": "Filters",
     "allTools": "All Tools",
     "clearAll": "Clear all",
@@ -597,7 +597,7 @@
     "forQuery": "for \"{query}\"",
     "inCategory": "in {category}",
     "noToolsFound": "No tools found",
-    "description": "Kostenlose, private, browserbasierte PDF-Tools zum Online-Konvertieren, Zusammenf?hren, Teilen und Komprimieren von PDFs. Keine Registrierung erforderlich.",
+    "description": "Kostenlose, private, browserbasierte PDF-Tools zum Online-Konvertieren, Zusammenführen, Teilen und Komprimieren von PDFs. Keine Registrierung erforderlich.",
     "categoriesIntro": "Durchsuchen Sie kostenlose PDF-Bearbeitungs- und Konvertierungstools nach funktionaler Kategorie:"
   },
   "tools": {
