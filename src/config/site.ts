@@ -10,7 +10,7 @@ export const siteConfig = {
     github: 'https://docbulk.com/',
     twitter: 'https://x.com/docbulk',
   },
-  creator: 'PDFkoi Team',
+  creator: 'docbulk Team',
   keywords: [
     'PDF tools',
     'PDF editor',
