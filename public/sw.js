@@ -1,8 +1,8 @@
 /**
- * Service Worker for PDFkoi
+ * Service Worker for docbulk
  */
 
-const CACHE_NAME = 'PDFkoi-cache-v1';
+const CACHE_NAME = 'docbulk-cache-v1';
 
 self.addEventListener('install', (event) => {
     self.skipWaiting();
