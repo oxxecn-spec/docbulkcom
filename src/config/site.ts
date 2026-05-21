@@ -2,13 +2,13 @@
  * Site configuration
  */
 export const siteConfig = {
-  name: 'PDFkoi',
+  name: 'docbulk',
   description: 'Free online PDF tools to merge, split, compress, and convert PDF files. Files are processed in your browser with no server uploads for faster, safer PDF handling.',
-  url: 'https://pdfkoi.com',
+  url: 'https://docbulk.com',
   ogImage: '/images/og-image.png',
   links: {
-    github: 'https://github.com/pdfkoi/pdfkoi',
-    twitter: 'https://x.com/pdfkoi',
+    github: 'https://docbulk.com/',
+    twitter: 'https://x.com/docbulk',
   },
   creator: 'PDFkoi Team',
   keywords: [
@@ -25,9 +25,9 @@ export const siteConfig = {
   ],
   // SEO-related settings
   seo: {
-    titleTemplate: '%s | PDFkoi',
-    defaultTitle: 'PDFkoi - Professional PDF Tools',
-    twitterHandle: '@pdfkoi',
+    titleTemplate: '%s | docbulk',
+    defaultTitle: 'docbulk - Professional PDF Tools',
+    twitterHandle: '@docbulk',
     locale: 'en_US',
   },
 };
