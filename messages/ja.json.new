@@ -1,7 +1,7 @@
-﻿{
+{
   "metadata": {
     "home": {
-      "title": "PDFkoi - 銉椼儹銉曘偋銉冦偡銉с儕銉玃DF銉勩兗锟?,
+      "title": "docbulk - 銉椼儹銉曘偋銉冦偡銉с儕銉玃DF銉勩兗锟?,
       "description": "鐒℃枡銆併儣銉┿偆銉欍兗銉堛€併儢銉┿偊銈躲儥銉笺偣銆傘偟銉笺儛銉笺伀銈儍銉椼儹銉笺儔銇涖仛銇玃DF銉曘偂銈ゃ儷銈掋偑銉炽儵銈ゃ兂銇х祼鍚堛兓绶ㄩ泦锟?
     },
     "tools": {
@@ -10,23 +10,23 @@
     },
     "about": {
       "title": "绉併仧銇°伀銇ゃ亜锟?,
-      "description": "PDFkoi銇仱銇勩仸 - 鐒℃枡銇с儣銉┿偆銉欍兗銉堛仾寮峰姏銇狿DF銉勩兗銉偔銉冦儓銆傘仚銇广仸銇嚘鐞嗐伅銉栥儵銈︺偠鍐呫仹琛屻倧銈屻伨銇欙拷?
+      "description": "docbulk銇仱銇勩仸 - 鐒℃枡銇с儣銉┿偆銉欍兗銉堛仾寮峰姏銇狿DF銉勩兗銉偔銉冦儓銆傘仚銇广仸銇嚘鐞嗐伅銉栥儵銈︺偠鍐呫仹琛屻倧銈屻伨銇欙拷?
     },
     "faq": {
       "title": "銈堛亸銇傘倠璩晱",
-      "description": "PDFkoi銇枹銇欍倠銈堛亸銇傘倠璩晱銇洖绛斻€侾DF銉勩兗銉倰鍔规灉鐨勩伀浣跨敤銇欍倠鏂规硶銈掋仈瑕с亸銇犮仌銇勶拷?
+      "description": "docbulk銇枹銇欍倠銈堛亸銇傘倠璩晱銇洖绛斻€侾DF銉勩兗銉倰鍔规灉鐨勩伀浣跨敤銇欍倠鏂规硶銈掋仈瑕с亸銇犮仌銇勶拷?
     },
     "privacy": {
       "title": "銉椼儵銈ゃ儛銈枫兗銉濄儶銈枫兗",
-      "description": "PDFkoi銉椼儵銈ゃ儛銈枫兗銉濄儶銈枫兗銆傘儠銈°偆銉伅銉囥儛銈ゃ偣銇嬨倝闆倢銈嬨亾銇ㄣ伅銇傘倞銇俱仜锟?- 銇欍伖銇︺伄鍑︾悊銇儹銉笺偒銉儢銉┿偊銈躲仹琛屻倧銈屻伨銇欙拷?
+      "description": "docbulk銉椼儵銈ゃ儛銈枫兗銉濄儶銈枫兗銆傘儠銈°偆銉伅銉囥儛銈ゃ偣銇嬨倝闆倢銈嬨亾銇ㄣ伅銇傘倞銇俱仜锟?- 銇欍伖銇︺伄鍑︾悊銇儹銉笺偒銉儢銉┿偊銈躲仹琛屻倧銈屻伨銇欙拷?
     },
     "contact": {
       "title": "銇婂晱銇勫悎銈忋仜",
-      "description": "PDFkoi銉併兗銉犮伀銇婂晱銇勫悎銈忋仜銇忋仩銇曘亜銆傘仈鎰忚銈掋亰寰呫仭銇椼仸銇娿倞銇俱仚锟?
+      "description": "docbulk銉併兗銉犮伀銇婂晱銇勫悎銈忋仜銇忋仩銇曘亜銆傘仈鎰忚銈掋亰寰呫仭銇椼仸銇娿倞銇俱仚锟?
     },
     "terms": {
       "title": "鍒╃敤瑕忕磩",
-      "description": "PDFkoi鍒╃敤瑕忕磩銆傜劇鏂橮DF銉勩兗銉伄浣跨敤銇枹銇欍倠鍒╃敤瑕忕磩銈掋亰瑾伩銇忋仩銇曘亜銆?
+      "description": "docbulk鍒╃敤瑕忕磩銆傜劇鏂橮DF銉勩兗銉伄浣跨敤銇枹銇欍倠鍒╃敤瑕忕磩銈掋亰瑾伩銇忋仩銇曘亜銆?
     },
     "keywords": {
       "pdfTools": "PDF銉勩兗锟?,
@@ -39,7 +39,7 @@
     }
   },
   "common": {
-    "brand": "PDFkoi",
+    "brand": "docbulk",
     "tagline": "銉椼儹銉曘偋銉冦偡銉с儕銉玃DF銉勩兗锟?- 鐒℃枡锛嗐儣銉┿偆銉欍兗锟?,
     "navigation": {
       "home": "銉涖兗锟?,
@@ -86,9 +86,9 @@
       "loading": "瑾伩杈笺伩锟?.."
     },
     "footer": {
-      "copyright": "漏 {year} PDFkoi. All rights reserved.",
+      "copyright": "漏 {year} docbulk. All rights reserved.",
       "privacyBadge": "100%銉椼儵銈ゃ儥銉笺儓 - 銉曘偂銈ゃ儷銇儑銉愩偆銈广亱銈夐洟銈屻伨銇涖倱",
-      "footer": "漏 2025 PDFkoi. All rights reserved.",
+      "footer": "漏 2025 docbulk. All rights reserved.",
       "madeWith": "Made with <Heart /> and <Nextjs />"
     },
     "recentFiles": {
@@ -132,7 +132,7 @@
       "finish": "瀹屼簡",
       "skip": "銈广偔銉冦儣",
       "stepOf": "/",
-      "welcomeTitle": "PDFkoi銇搞倛銇嗐亾銇濓紒",
+      "welcomeTitle": "docbulk銇搞倛銇嗐亾銇濓紒",
       "welcomeMessage": "PDF銉勩兗銉伄浣裤亜鏂广倰瀛︺伓銈偆銉冦偗銉勩偄銉笺伅銇勩亱銇屻仹銇欍亱锟?鍒嗙▼搴︺仹瀹屼簡銇椼伨銇欙拷?,
       "helpButton": "銉樸儷銉椼儎銈兗"
     },
@@ -159,16 +159,16 @@
       "sections": {
         "general": {
           "whatIs": {
-            "question": "What is PDFkoi?",
-            "answer": "PDFkoi is a free, privacy-focused PDF toolkit that runs entirely in your browser. It offers 67+ professional tools for editing, converting, merging, splitting, and securing PDF files without uploading them to any server."
+            "question": "What is docbulk?",
+            "answer": "docbulk is a free, privacy-focused PDF toolkit that runs entirely in your browser. It offers 67+ professional tools for editing, converting, merging, splitting, and securing PDF files without uploading them to any server."
           },
           "isFree": {
-            "question": "Is PDFkoi really free?",
-            "answer": "Yes, PDFkoi is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
+            "question": "Is docbulk really free?",
+            "answer": "Yes, docbulk is completely free to use. There are no hidden costs, no premium tiers, and no registration required. All features are available to everyone."
           },
           "account": {
             "question": "Do I need to create an account?",
-            "answer": "No, you don't need to create an account or register to use PDFkoi. Simply visit the website and start using any tool immediately."
+            "answer": "No, you don't need to create an account or register to use docbulk. Simply visit the website and start using any tool immediately."
           }
         },
         "privacy": {
@@ -177,8 +177,8 @@
             "answer": "No, your files are never uploaded to any server. All PDF processing happens locally in your browser using JavaScript and WebAssembly. Your files never leave your device."
           },
           "safe": {
-            "question": "Is it safe to use PDFkoi with sensitive documents?",
-            "answer": "Yes, PDFkoi is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
+            "question": "Is it safe to use docbulk with sensitive documents?",
+            "answer": "Yes, docbulk is designed with privacy in mind. Since all processing happens locally in your browser, your sensitive documents remain on your device and are never transmitted over the internet."
           },
           "storage": {
             "question": "What happens to my files after processing?",
@@ -188,7 +188,7 @@
         "features": {
           "operations": {
             "question": "What PDF operations can I perform?",
-            "answer": "PDFkoi offers 67+ tools including: merge, split, compress, convert (to/from images, text, JSON), edit, annotate, sign, add watermarks, encrypt/decrypt, OCR, and many more."
+            "answer": "docbulk offers 67+ tools including: merge, split, compress, convert (to/from images, text, JSON), edit, annotate, sign, add watermarks, encrypt/decrypt, OCR, and many more."
           },
           "merge": {
             "question": "Can I merge multiple PDF files?",
@@ -196,17 +196,17 @@
           },
           "images": {
             "question": "Can I convert images to PDF?",
-            "answer": "Yes, PDFkoi supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
+            "answer": "Yes, docbulk supports converting various image formats (JPG, PNG, WebP, BMP, TIFF, SVG, HEIC) to PDF. You can convert single or multiple images at once."
           },
           "edit": {
             "question": "Can I edit text in a PDF?",
-            "answer": "PDFkoi provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
+            "answer": "docbulk provides annotation and editing tools including highlighting, adding text, shapes, images, and signatures. For full text editing, the PDF Editor tool offers comprehensive annotation capabilities."
           }
         },
         "technical": {
           "browsers": {
             "question": "What browsers are supported?",
-            "answer": "PDFkoi works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
+            "answer": "docbulk works on all modern browsers including Chrome, Firefox, Safari, and Edge. We recommend using the latest version of your browser for the best experience."
           },
           "sizeLimit": {
             "question": "Is there a file size limit?",
@@ -217,14 +217,14 @@
             "answer": "Since all processing happens in your browser, performance depends on your device's capabilities. Large files require more memory and processing power. For best results, close other browser tabs and applications."
           },
           "offline": {
-            "question": "Does PDFkoi work offline?",
-            "answer": "Currently, PDFkoi requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
+            "question": "Does docbulk work offline?",
+            "answer": "Currently, docbulk requires an internet connection to load the application. However, once loaded, the PDF processing itself happens locally and doesn't require a connection."
           }
         },
         "languages": {
           "supported": {
             "question": "What languages are supported?",
-            "answer": "PDFkoi is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
+            "answer": "docbulk is available in 9 languages: English, Japanese, Korean, Spanish, French, German, Chinese, Portuguese, and Arabic (with RTL support)."
           },
           "change": {
             "question": "How do I change the language?",
@@ -255,7 +255,7 @@
         },
         "fast": {
           "title": "Fast & Efficient",
-          "description": "Powered by modern web technologies, PDFkoi delivers lightning-fast PDF processing without the need for uploads or downloads."
+          "description": "Powered by modern web technologies, docbulk delivers lightning-fast PDF processing without the need for uploads or downloads."
         },
         "accessible": {
           "title": "Accessible Everywhere",
@@ -263,7 +263,7 @@
         },
         "free": {
           "title": "Free Forever",
-          "description": "PDFkoi is completely free to use with no hidden costs, no registration required, and no limits on usage."
+          "description": "docbulk is completely free to use with no hidden costs, no registration required, and no limits on usage."
         },
         "openSource": {
           "title": "Open Source",
@@ -301,7 +301,7 @@
         "email": {
           "title": "銉°兗锟?,
           "description": "銉°兗銉倰銇婇€併倞銇忋仩銇曘亜锟?4锟?8鏅傞枔浠ュ唴銇繑淇°亜銇熴仐銇俱仚锟?,
-          "action": "support@pdfkoi.com"
+          "action": "support@docbulk.com"
         },
         "github": {
           "title": "GitHub",
@@ -311,7 +311,7 @@
         "twitter": {
           "title": "Twitter",
           "description": "鏈€鏂版儏鍫便倓銇婄煡銈夈仜銇亾銇°倝銇с儠銈┿儹銉硷拷?,
-          "action": "@PDFkoi"
+          "action": "@docbulk"
         }
       },
       "form": {
@@ -462,7 +462,7 @@
   "workflow": {
     "title": "PDF銉兗銈儠銉兗銈ㄣ儑銈ｃ偪锟?,
     "subtitle": "銉勩兗銉倰鎺ョ稓銇椼仸銈偣銈裤儬PDF鍑︾悊銉戙偆銉椼儵銈ゃ兂銈掍綔锟?,
-    "metaTitle": "PDF銉兗銈儠銉兗銈ㄣ儑銈ｃ偪锟?- PDFkoi",
+    "metaTitle": "PDF銉兗銈儠銉兗銈ㄣ儑銈ｃ偪锟?- docbulk",
     "metaDescription": "銉勩兗銉倰瑕栬鐨勩伀鎺ョ稓銇椼仸銈偣銈裤儬PDF鍑︾悊銉戙偆銉椼儵銈ゃ兂銈掍綔鎴愩€傘儻銉笺偗銉曘儹銉笺倰妲嬬瘔銆佷繚瀛樸€佸啀鍒╃敤锟?,
     "toolbox": "銉勩兗銉儨銉冦偗锟?,
     "dragToAdd": "銉兗銈儠銉兗銇儎銉笺儷銈掋儔銉┿儍銈般仐銇﹁拷锟?,
