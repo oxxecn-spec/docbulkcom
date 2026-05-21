@@ -1,7 +1,7 @@
 {
   "metadata": {
     "home": {
-      "title": "無需註冊的線上 PDF 工具，適合處理敏感文件 | PDFkoi",
+      "title": "無需註冊的線上 PDF 工具，適合處理敏感文件 | docbulk",
       "description": "免費線上 PDF 工具，無需註冊即可處理合併、拆分、壓縮、圖片轉 PDF 與 PDF 轉 Word 等常見任務，適合合約、證件、履歷等敏感文件的整理與傳送前處理。",
       "keywords": {
         "k1": "無需註冊 PDF 工具",
@@ -13,24 +13,24 @@
       }
     },
     "tools": {
-      "title": "免費、私密、基於瀏覽器的 PDF 工具 | PDFkoi",
+      "title": "免費、私密、基於瀏覽器的 PDF 工具 | docbulk",
       "description": "免費、私密、基於瀏覽器的 PDF 工具，支援線上轉換、合併、拆分與壓縮 PDF，無需註冊。"
     },
     "about": {
       "title": "關於我們",
-      "description": "了解 PDFkoi 及其免費、私密、基於瀏覽器的 PDF 工具。所有處理都在您的瀏覽器中完成。"
+      "description": "了解 docbulk 及其免費、私密、基於瀏覽器的 PDF 工具。所有處理都在您的瀏覽器中完成。"
     },
     "faq": {
       "title": "常見問題",
-      "description": "查找有關 PDFkoi 的常見問題解答。瞭解如何有效使用我們的 PDF 工具。"
+      "description": "查找有關 docbulk 的常見問題解答。瞭解如何有效使用我們的 PDF 工具。"
     },
     "privacy": {
       "title": "隱私政策",
-      "description": "PDFkoi 隱私政策。您的檔案永遠不會離開您的裝置 - 所有處理都在本地瀏覽器中進行。"
+      "description": "docbulk 隱私政策。您的檔案永遠不會離開您的裝置 - 所有處理都在本地瀏覽器中進行。"
     },
     "contact": {
       "title": "聯絡我們",
-      "description": "聯繫 PDFkoi 團隊。我們很樂意聽取您的意見。"
+      "description": "聯繫 docbulk 團隊。我們很樂意聽取您的意見。"
     },
     "keywords": {
       "pdfTools": "PDF 工具",
@@ -43,11 +43,11 @@
     },
     "terms": {
       "title": "服務條款",
-      "description": "PDFkoi 服務條款。閱讀我們的使用條款和條件，了解如何使用我們的免費 PDF 工具。"
+      "description": "docbulk 服務條款。閱讀我們的使用條款和條件，了解如何使用我們的免費 PDF 工具。"
     }
   },
   "common": {
-    "brand": "PDFkoi",
+    "brand": "docbulk",
     "tagline": "免費、私密、基於瀏覽器的 PDF 工具",
     "navigation": {
       "home": "首頁",
@@ -108,8 +108,8 @@
       "loading": "載入中..."
     },
     "footer": {
-      "footer": "© 2025 PDFkoi. 保留所有權利。",
-      "copyright": "© {year} PDFkoi. 保留所有權利。",
+      "footer": "© 2025 docbulk. 保留所有權利。",
+      "copyright": "© {year} docbulk. 保留所有權利。",
       "privacyBadge": "100% 私密 - 檔案永不離開您的裝置",
       "madeWith": "Made with <Heart /> and <Nextjs />"
     },
@@ -154,7 +154,7 @@
       "finish": "完成",
       "skip": "跳過",
       "stepOf": "/",
-      "welcomeTitle": "歡迎使用PDFkoi！",
+      "welcomeTitle": "歡迎使用docbulk！",
       "welcomeMessage": "想要快速瞭解如何使用我們的PDF工具嗎？只需一分鐘。",
       "helpButton": "幫助導覽"
     },
@@ -221,16 +221,16 @@
     "sections": {
       "general": {
         "whatIs": {
-          "question": "PDFkoi 是什麼？",
-          "answer": "PDFkoi 是一套免費、私密、基於瀏覽器的 PDF 工具集，完全在您的瀏覽器中執行。它提供 95+ 款 PDF 工具，可用於編輯、轉換、合併、拆分與保護 PDF 檔案，無需上傳到任何伺服器。"
+          "question": "docbulk 是什麼？",
+          "answer": "docbulk 是一套免費、私密、基於瀏覽器的 PDF 工具集，完全在您的瀏覽器中執行。它提供 95+ 款 PDF 工具，可用於編輯、轉換、合併、拆分與保護 PDF 檔案，無需上傳到任何伺服器。"
         },
         "isFree": {
-          "question": "PDFkoi 真的免費嗎？",
-          "answer": "是的，PDFkoi 完全免費使用。沒有隱藏費用，沒有高階會員，也無需註冊。所有功能對每個人開放。"
+          "question": "docbulk 真的免費嗎？",
+          "answer": "是的，docbulk 完全免費使用。沒有隱藏費用，沒有高階會員，也無需註冊。所有功能對每個人開放。"
         },
         "account": {
           "question": "我需要建立賬戶嗎？",
-          "answer": "不需要，您無需建立賬戶或註冊即可使用 PDFkoi。只需訪問網站即可立即開始使用任何工具。"
+          "answer": "不需要，您無需建立賬戶或註冊即可使用 docbulk。只需訪問網站即可立即開始使用任何工具。"
         }
       },
       "privacy": {
@@ -239,8 +239,8 @@
           "answer": "不會，您的檔案從未上傳到任何伺服器。所有 PDF 處理都使用 JavaScript 和 WebAssembly 在瀏覽器本地進行。您的檔案從未離開您的裝置。"
         },
         "safe": {
-          "question": "使用 PDFkoi 處理敏感文件安全嗎？",
-          "answer": "是的，PDFkoi 的設計以隱私為重。由於所有處理都在瀏覽器本地進行，您的敏感文件保留在您的裝置上，從未透過網際網路傳輸。"
+          "question": "使用 docbulk 處理敏感文件安全嗎？",
+          "answer": "是的，docbulk 的設計以隱私為重。由於所有處理都在瀏覽器本地進行，您的敏感文件保留在您的裝置上，從未透過網際網路傳輸。"
         },
         "storage": {
           "question": "處理後我的檔案會怎樣？",
@@ -250,7 +250,7 @@
       "features": {
         "operations": {
           "question": "我可以執行哪些 PDF 操作？",
-          "answer": "PDFkoi 提供 95+ 款工具，包括：合併、拆分、壓縮、轉換（與影像、文字、JSON 互轉）、編輯、註解、簽名、加入浮水印、加密/解密、OCR 等。"
+          "answer": "docbulk 提供 95+ 款工具，包括：合併、拆分、壓縮、轉換（與影像、文字、JSON 互轉）、編輯、註解、簽名、加入浮水印、加密/解密、OCR 等。"
         },
         "merge": {
           "question": "我可以合併多個 PDF 檔案嗎？",
@@ -258,17 +258,17 @@
         },
         "images": {
           "question": "我可以將影象轉換為 PDF 嗎？",
-          "answer": "是的，PDFkoi 支援將各種影象格式（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC）轉換為 PDF。您可以一次轉換單個或多個影象。"
+          "answer": "是的，docbulk 支援將各種影象格式（JPG、PNG、WebP、BMP、TIFF、SVG、HEIC）轉換為 PDF。您可以一次轉換單個或多個影象。"
         },
         "edit": {
           "question": "我可以編輯 PDF 中的文字嗎？",
-          "answer": "PDFkoi 提供註釋和編輯工具，包括高亮、新增文字、形狀、影象和簽名。如需全文編輯，PDF 編輯器工具提供全面的註釋功能。"
+          "answer": "docbulk 提供註釋和編輯工具，包括高亮、新增文字、形狀、影象和簽名。如需全文編輯，PDF 編輯器工具提供全面的註釋功能。"
         }
       },
       "technical": {
         "browsers": {
           "question": "支援哪些瀏覽器？",
-          "answer": "PDFkoi 適用於所有現代瀏覽器，包括 Chrome、Firefox、Safari 和 Edge。我們建議使用最新版本的瀏覽器以獲得最佳體驗。"
+          "answer": "docbulk 適用於所有現代瀏覽器，包括 Chrome、Firefox、Safari 和 Edge。我們建議使用最新版本的瀏覽器以獲得最佳體驗。"
         },
         "sizeLimit": {
           "question": "有檔案大小限制嗎？",
@@ -279,14 +279,14 @@
           "answer": "由於所有處理都在瀏覽器中進行，效能取決於您裝置的能力。大檔案需要更多的記憶體和處理能力。為了獲得最佳結果，請關閉其他瀏覽器標籤頁和應用程式。"
         },
         "offline": {
-          "question": "PDFkoi 可以離線工作嗎？",
-          "answer": "目前，PDFkoi 需要網際網路連線才能載入應用程式。但是，一旦載入，PDF 處理本身在本地進行，不需要連線。"
+          "question": "docbulk 可以離線工作嗎？",
+          "answer": "目前，docbulk 需要網際網路連線才能載入應用程式。但是，一旦載入，PDF 處理本身在本地進行，不需要連線。"
         }
       },
       "languages": {
         "supported": {
           "question": "支援哪些語言？",
-          "answer": "PDFkoi 提供 9 種語言版本：英語、日語、韓語、西班牙語、法語、德語、中文、葡萄牙語和阿拉伯語（支援從右到左）。"
+          "answer": "docbulk 提供 9 種語言版本：英語、日語、韓語、西班牙語、法語、德語、中文、葡萄牙語和阿拉伯語（支援從右到左）。"
         },
         "change": {
           "question": "如何更改語言？",
@@ -317,7 +317,7 @@
       },
       "fast": {
         "title": "快速高效",
-        "description": "由現代 Web 技術驅動，PDFkoi 提供閃電般的 PDF 處理速度，無需上傳或下載。"
+        "description": "由現代 Web 技術驅動，docbulk 提供閃電般的 PDF 處理速度，無需上傳或下載。"
       },
       "accessible": {
         "title": "隨處可用",
@@ -325,7 +325,7 @@
       },
       "free": {
         "title": "永久免費",
-        "description": "PDFkoi 完全免費使用，沒有隱藏費用，無需註冊，也不限制使用次數。"
+        "description": "docbulk 完全免費使用，沒有隱藏費用，無需註冊，也不限制使用次數。"
       },
       "openSource": {
         "title": "開源透明",
@@ -363,7 +363,7 @@
       "email": {
         "title": "電子郵件",
         "description": "傳送電子郵件給我們，我們將在 24-48 小時內回覆。",
-        "action": "support@pdfkoi.com"
+        "action": "support@docbulk.com"
       },
       "github": {
         "title": "GitHub",
@@ -373,7 +373,7 @@
       "twitter": {
         "title": "推特",
         "description": "關注我們要獲取更新和公告。",
-        "action": "@PDFkoi"
+        "action": "@docbulk"
       }
     },
     "form": {
@@ -502,12 +502,12 @@
       "browserSafety": {
         "eyebrow": "以隱私為優先的工作流程",
         "heading": "為什麼在瀏覽器內處理 PDF 更安全",
-        "body": "許多線上 PDF 工具會要求你先把檔案上傳到遠端伺服器，才能進行合併、分割、壓縮或轉換。PDFkoi 的做法不同。你的檔案會直接在瀏覽器中處理，通常更適合合約、履歷、表單、證件、掃描檔，以及其他你不想傳送到外部伺服器的文件。如果你想要更快的流程、免註冊，並且更能掌握檔案的處理方式，那麼在瀏覽器中處理 PDF 往往是更簡單的選擇。"
+        "body": "許多線上 PDF 工具會要求你先把檔案上傳到遠端伺服器，才能進行合併、分割、壓縮或轉換。docbulk 的做法不同。你的檔案會直接在瀏覽器中處理，通常更適合合約、履歷、表單、證件、掃描檔，以及其他你不想傳送到外部伺服器的文件。如果你想要更快的流程、免註冊，並且更能掌握檔案的處理方式，那麼在瀏覽器中處理 PDF 往往是更簡單的選擇。"
       },
       "everydayTasks": {
         "eyebrow": "更貼近搜尋需求的覆蓋",
         "heading": "適合日常工作的熱門 PDF 工具",
-        "body": "大多數人使用 PDF 工具時，目的都很明確：合併 PDF、分割頁面、壓縮大型文件、把 PDF 轉成 Word，或把圖片整理成 PDF。PDFkoi 把這些常見任務集中在同一個地方，讓你不需要建立帳號，也不用走傳統上傳流程，就能更快完成日常文件處理。",
+        "body": "大多數人使用 PDF 工具時，目的都很明確：合併 PDF、分割頁面、壓縮大型文件、把 PDF 轉成 Word，或把圖片整理成 PDF。docbulk 把這些常見任務集中在同一個地方，讓你不需要建立帳號，也不用走傳統上傳流程，就能更快完成日常文件處理。",
         "cardTitle": "大家常找的處理任務",
         "items": {
           "merge": "線上合併 PDF",
@@ -536,7 +536,7 @@
   "workflow": {
     "title": "PDF 工作流程編輯器",
     "subtitle": "透過連接工具建立自訂 PDF 處理管道",
-    "metaTitle": "PDF 工作流程編輯器 - PDFkoi",
+    "metaTitle": "PDF 工作流程編輯器 - docbulk",
     "metaDescription": "透過視覺化連接工具建立自訂 PDF 處理管道。建構、儲存和重複使用您的工作流程。",
     "toolbox": "工具箱",
     "dragToAdd": "拖曳工具新增到工作流程",
