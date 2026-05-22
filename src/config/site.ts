@@ -2,7 +2,7 @@
  * Site configuration
  */
 export const siteConfig = {
-  name: 'docbulk',
+  name: 'docbulk,PDF.JPG.Word.WebP',
   description: 'Free online PDF tools to merge, split, compress, and convert PDF files. Files are processed in your browser with no server uploads for faster, safer PDF handling.',
   url: 'https://pdf.docbulk.com',
   ogImage: '/images/og-image.png',
