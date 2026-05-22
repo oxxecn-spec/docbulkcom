@@ -4,10 +4,10 @@
 export const siteConfig = {
   name: 'docbulk',
   description: 'Free online PDF tools to merge, split, compress, and convert PDF files. Files are processed in your browser with no server uploads for faster, safer PDF handling.',
-  url: 'https://docbulk.com',
+  url: 'https://pdf.docbulk.com',
   ogImage: '/images/og-image.png',
   links: {
-    github: 'https://docbulk.com/',
+    github: 'https://pdf.docbulk.com/',
     twitter: 'https://x.com/docbulk',
   },
   creator: 'docbulk Team',
@@ -26,7 +26,7 @@ export const siteConfig = {
   // SEO-related settings
   seo: {
     titleTemplate: '%s | docbulk',
-    defaultTitle: 'docbulk - Professional PDF Tools',
+    defaultTitle: 'pdf.docbulk - Professional PDF Tools',
     twitterHandle: '@docbulk',
     locale: 'en_US',
   },
