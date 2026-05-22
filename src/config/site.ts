@@ -25,7 +25,7 @@ export const siteConfig = {
   ],
   // SEO-related settings
   seo: {
-    titleTemplate: '%s | docbulk',
+    titleTemplate: '%s | docbulk.PDF.JPG.Word.WebP',
     defaultTitle: 'pdf.docbulk - Professional PDF Tools',
     twitterHandle: '@docbulk',
     locale: 'en_US',
